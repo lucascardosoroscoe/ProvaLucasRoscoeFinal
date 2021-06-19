@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaLucasRoscoeFinal", "ProvaLucasRoscoeFinal\ProvaLucasRoscoeFinal.csproj", "{12CEDDDA-7BEF-4CA4-96B4-A42E56BE225A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteBhaskara", "TesteBhaskara\TesteBhaskara.csproj", "{FC50466C-9FCC-4CCD-9770-DB2A009E5C27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CEDDDA-7BEF-4CA4-96B4-A42E56BE225A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CEDDDA-7BEF-4CA4-96B4-A42E56BE225A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CEDDDA-7BEF-4CA4-96B4-A42E56BE225A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CEDDDA-7BEF-4CA4-96B4-A42E56BE225A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC50466C-9FCC-4CCD-9770-DB2A009E5C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC50466C-9FCC-4CCD-9770-DB2A009E5C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC50466C-9FCC-4CCD-9770-DB2A009E5C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC50466C-9FCC-4CCD-9770-DB2A009E5C27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7188BE6-907A-4CF8-A373-1E2F1299741D}
+	EndGlobalSection
+EndGlobal
